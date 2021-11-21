@@ -1,0 +1,17 @@
+{
+  "name": "projectVala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "excel4node": "^1.7.2",
+    "pdf-lib": "^1.17.1"
+  }
+}
